@@ -8,6 +8,10 @@ Implementing Image Steganography technique using python
 
 **Usage**
 
+Image before steganography
+
+![Input](https://github.com/Kalyan-1707/steganography/blob/master/arch.jpeg)
+
 1. Run the image.py file to embedd text into image.
 
 ```
@@ -41,3 +45,7 @@ Enter name of image to decrypt message(ex:enc_nature.png):steg_img.png
 #### Message Decrypted Successfully ####
 Message : Hey this is kalyan I am alive..
 ```
+
+Image after steganography
+
+![Input](https://github.com/Kalyan-1707/steganography/blob/master/output.png)
